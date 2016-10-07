@@ -1,0 +1,358 @@
+time,location,illuminance_lux,water_R,water_G,water_B,water_name,sky_R,sky_G,sky_B,sky_name
+6:40:00,Wilson,124,161,152,137,nomad,122,134,132,gray
+6:40:10,Wilson,140,147,143,132,heathered gray,255,255,248,snow
+6:40:20,Wilson,138,140,134,121,schooner,255,255,254,bright white
+6:40:30,Wilson,142,133,130,122,friar gray,255,255,254,bright white
+6:40:40,Wilson,140,145,142,133,heathered gray,255,255,254,bright white
+6:40:50,Wilson,149,122,123,116,tapa,224,211,190,bone
+6:41:00,Wilson,153,153,146,135,heathered gray,211,205,189,pastel gray
+6:41:10,Wilson,156,133,130,119,friar gray,196,193,180,pale silver
+6:41:20,Wilson,160,121,120,114,dove gray,170,172,170,light gray
+6:41:30,Wilson,164,136,135,126,friar gray,241,229,206,almond
+6:41:40,Wilson,169,136,133,123,friar gray,204,192,174,pale silver
+6:41:50,Wilson,173,154,150,141,dawn,139,147,151,gray
+6:42:00,Wilson,177,152,147,137,heathered gray,148,154,158,manatee
+6:42:10,Wilson,182,131,128,121,concord,151,155,152,gray
+6:42:20,Wilson,186,133,132,124,friar gray,135,141,143,gray
+6:42:30,Wilson,191,141,142,135,jumbo,141,146,147,gray
+6:42:40,Wilson,197,127,126,117,tapa,138,145,148,gray
+6:42:50,Wilson,202,125,124,117,tapa,155,161,160,gray
+6:43:00,Wilson,211,127,128,120,tapa,234,217,192,pearl
+6:43:10,Wilson,215,156,151,137,nomad,209,188,167,pale chestnut
+6:43:20,Wilson,221,129,127,118,concord,116,114,118,gray
+6:43:30,Wilson,226,136,136,131,jumbo,148,137,128,cinereous
+6:43:40,Wilson,231,133,132,123,friar gray,137,116,116,gray muave
+6:43:50,Wilson,237,125,125,118,tapa,125,113,113,old lavender
+6:44:00,Wilson,242,148,143,132,heathered gray,116,112,116,gray
+6:44:10,Wilson,250,141,142,135,jumbo,110,109,112,gray
+6:44:20,Wilson,255,147,142,130,heathered gray,110,109,115,gray
+6:44:30,Wilson,260,147,147,138,lemon grass,121,107,109,gray
+6:44:40,Wilson,266,137,139,131,jumbo,124,107,107,old lavender
+6:44:50,Wilson,271,137,141,135,stack,122,109,111,old lavender
+6:45:00,Wilson,277,154,148,135,heathered gray,154,156,154,gray
+6:45:10,Wilson,289,130,133,127,gunsmoke,139,126,131,taupe gray
+6:45:20,Wilson,296,159,157,145,dawn,145,134,137,taupe gray
+6:45:30,Wilson,302,138,140,132,jumbo,136,127,130,medium gray
+6:45:40,Wilson,308,141,140,127,friar gray,153,133,136,cinereous
+6:45:50,Wilson,314,138,137,127,friar gray,124,107,107,old lavender
+6:46:00,Wilson,319,146,148,143,delta,122,109,111,old lavender
+6:46:10,Wilson,325,147,145,131,lemon grass,154,156,154,gray
+6:46:20,Wilson,332,138,136,126,friar gray,139,126,131,taupe gray
+6:46:30,Wilson,338,155,153,140,dawn,145,134,137,taupe gray
+6:46:40,Wilson,340,149,152,145,delta,136,127,130,medium gray
+6:46:50,Wilson,366,155,152,142,dawn,153,133,136,cinereous
+6:47:00,Wilson,366,157,155,143,dawn,245,202,189,baby pink
+6:47:20,Wilson,378,140,144,136,delta,168,130,133,rose gray
+6:47:30,Wilson,386,146,149,140,delta,213,139,140,ruddy pink
+6:47:40,Wilson,402,93,109,111,pale sky,246,181,156,peach orange
+6:47:50,Wilson,415,131,134,127,gunsmoke,230,171,161,pale chestnut
+6:48:00,Wilson,432,144,150,136,delta,249,223,207,almond
+6:48:10,Wilson,439,115,122,120,rolling stone,245,139,136,light coral
+6:48:20,Wilson,402,124,128,122,spanish green,204,134,132,old rose
+6:48:30,Wilson,409,152,152,143,dawn,148,166,144,vivid tangerine
+6:48:40,Wilson,417,135,139,133,stack,128,129,134,gray
+6:48:50,Wilson,423,120,128,127,oslo gray,135,127,133,medium gray
+6:49:00,Wilson,429,125,136,135,oslo gray,241,172,160,mauvelous
+6:49:10,Wilson,437,130,138,136,oslo gray,250,180,155,peach orange
+6:49:20,Wilson,443,132,138,132,stack,141,139,142,gray
+6:49:30,Wilson,450,108,119,118,rolling stone,153,143,143,gray
+6:49:40,Wilson,458,139,148,142,pewter,224,134,132,light coral
+6:50:00,Wilson,473,129,138,136,oslo gray,239,140,125,dark salmon
+6:50:10,Wilson,479,146,146,133,lemon grass,239,210,189,wheat
+6:50:20,Wilson,487,193,187,167,ash,202,133,134,old rose
+6:50:40,Wilson,496,122,130,128,oslo gray,165,145,145,rose gray
+6:50:50,Wilson,504,118,131,131,regent gray,250,162,148,light salmon pink
+6:51:00,Wilson,526,129,138,131,stack,247,186,153,peach orange
+6:51:10,Wilson,533,111,122,120,rolling stone,182,162,156,light gray
+6:51:20,Wilson,540,129,139,135,oslo gray,253,227,211,antique white
+6:51:30,Wilson,546,105,119,121,pale sky,251,197,180,melon
+6:51:40,Wilson,553,127,138,138,oslo gray,247,134,127,coral pink
+6:51:50,Wilson,560,110,125,127,regent gray,231,135,135,light coral
+6:52:00,Wilson,567,114,126,126,rolling stone,253,209,189,peach puff
+6:52:10,Wilson,576,113,126,128,regent gray,233,168,160,mauvelous
+6:52:20,Wilson,583,108,122,124,rolling stone,157,134,141,rose gray
+6:52:30,Wilson,591,110,123,126,regent gray,253,211,189,peach puff
+6:53:20,Wilson,633,120,132,131,oslo gray,248,134,128,coral pink
+6:53:30,Wilson,639,117,133,135,regent gray,227,138,137,ruddy pink
+6:53:40,Wilson,650,109,122,125,blue bayoux,250,159,135,vivid tangerine
+6:53:50,Wilson,658,116,131,133,regent gray,240,162,129,dark salmon
+6:54:00,Wilson,670,105,122,126,blue bayoux,239,121,115,coral pink
+6:54:10,Wilson,679,103,123,126,blue bayoux,142,139,134,taupe gray
+6:54:20,Wilson,688,127,142,141,oslo gray,104,105,112,dim gray
+6:54:30,Wilson,697,111,131,131,regent gray,145,116,120,gray muave
+6:54:40,Wilson,706,114,135,138,regent gray,137,124,125,gray
+6:54:50,Wilson,714,124,138,135,oslo gray,247,135,130,coral pink
+6:55:00,Wilson,722,98,120,126,blue bayoux,189,118,119,rose gold
+6:55:10,Wilson,731,102,122,123,blue bayoux,229,129,121,light coral
+6:55:20,Wilson,742,105,127,128,blue bayoux,242,199,170,desert sand
+6:55:30,Wilson,751,121,139,137,oslo gray,114,108,115,gray
+6:55:40,Wilson,758,105,128,131,hoki,190,110,111,rose gold
+6:55:50,Wilson,765,153,158,148,delta,159,110,111,copper rose
+6:56:00,Wilson,776,99,121,125,blue bayoux,100,104,109,dim gray
+6:56:10,Wilson,785,111,129,129,rolling stone,191,121,120,old rose
+6:56:20,Wilson,792,99,121,125,blue bayoux,174,118,116,rose gold
+6:56:30,Wilson,873,96,122,127,blue bayoux,135,129,126,medium gray
+6:56:40,Wilson,884,114,129,128,rolling stone,206,111,108,fuzzy wuzzy
+6:56:50,Wilson,898,130,141,138,oslo gray,104,102,108,dim gray
+6:57:00,Wilson,907,113,129,129,regent gray,129,114,114,old lavender
+6:57:10,Wilson,915,97,122,125,blue bayoux,128,115,117,old lavender
+6:57:20,Wilson,932,97,122,125,blue bayoux,151,112,115,gray muave
+6:57:30,Wilson,940,100,124,127,blue bayoux,252,225,196,bisque
+6:57:40,Wilson,991,99,123,128,blue bayoux,245,209,180,apricot
+6:58:20,Wilson,1002,101,125,128,blue bayoux,239,227,200,pearl
+6:58:50,Wilson,1025,115,131,131,regent gray,172,154,157,rose quartz
+6:59:00,Wilson,1008,104,122,123,blue bayoux,249,195,164,deep peach
+6:59:10,Wilson,1016,146,146,142,jumbo,247,188,151,peach orange
+6:59:20,Wilson,1028,113,129,128,rolling stone,242,184,149,pale gold
+6:59:30,Wilson,1039,96,115,120,blue bayoux,228,172,147,tumbleweed
+6:59:40,Wilson,1050,114,129,129,regent gray,251,193,153,peach orange
+6:59:50,Wilson,1061,117,135,138,regent gray,244,208,181,apricot
+7:00:10,Wilson,1081,97,117,121,blue bayoux,248,200,166,deep peach
+7:00:20,Wilson,1014,105,121,122,rolling stone,137,153,165,cool gray
+6:45:00,Bryn Mawr,38,207,198,193,Pastel gray,244,235,220,Eggshell
+6:45:10,Bryn Mawr,38,191,181,178,Light gray (69%),248,234,219,Antique white
+6:45:20,Bryn Mawr,40,217,203,192,Pastel gray,238,225,213,Almond
+6:45:30,Bryn Mawr,41,199,187,181,Pale silver,246,235,220,Antique white
+6:45:40,Bryn Mawr,77,193,183,175,Pale silver,245,234,220,Antique white
+6:45:50,Bryn Mawr,164,172,167,166,Light gray,245,234,221,Antique white
+6:46:00,Bryn Mawr,169,162,158,155,Gray (63%),248,237,220,Antique white
+6:46:10,Bryn Mawr,176,194,186,177,Pale silver,250,237,221,Antique white
+6:46:20,Bryn Mawr,180,213,204,201,Pastel gray,254,239,212,Papaya whip (Beige)
+6:46:30,Bryn Mawr,183,189,180,177,Light gray (69%),250,238,223,Linen
+6:46:40,Bryn Mawr,204,227,216,206,Bone,247,236,221,Antique white
+6:46:50,Bryn Mawr,204,199,190,186,Pale silver,251,239,222,Antique white
+6:47:00,Bryn Mawr,211,209,196,186,Pale silver,253,240,221,Cornsilk
+6:47:10,Bryn Mawr,218,223,208,197,Bone,250,238,221,Antique white
+6:47:20,Bryn Mawr,221,206,194,182,Pale silver,250,239,224,Linen
+6:47:30,Bryn Mawr,239,197,185,177,Pale silver,254,241,222,Cornsilk
+6:47:40,Bryn Mawr,247,191,182,173,Light gray (69%),251,240,225,Linen
+6:47:50,Bryn Mawr,247,155,145,142,Gray (56%),249,239,224,Linen
+6:48:00,Bryn Mawr,292,189,180,173,Light gray (69%),248,237,224,Linen
+6:48:10,Bryn Mawr,304,202,191,182,Pale silver,252,242,224,Linen
+6:48:20,Bryn Mawr,312,220,216,209,Timberwold (Beige),251,241,226,Linen
+6:48:30,Bryn Mawr,320,215,201,200,Pastel gray,248,236,226,Linen
+6:48:40,Bryn Mawr,324,205,199,195,Pastel gray,247,237,226,Linen
+6:48:50,Bryn Mawr,327,219,208,205,Timberwolf (Beige),247,235,225,Linen
+6:49:00,Bryn Mawr,335,195,188,183,Pale silver,245,235,223,Antique white
+6:49:10,Bryn Mawr,346,181,172,170,Light gray (69%),246,235,222,Antique white
+6:49:20,Bryn Mawr,348,222,213,207,Timberwold (Beige),255,241,225,Old lace
+6:49:30,Bryn Mawr,351,198,191,194,Silver,254,240,222,Cornsilk
+6:49:40,Bryn Mawr,358,204,201,194,Pastel gray,250,240,228,Linen
+6:49:50,Bryn Mawr,367,215,207,198,Pastel gray,249,234,221,Antique white
+6:50:00,Bryn Mawr,374,201,194,186,Pale silver,254,244,225,Old lace
+6:50:10,Bryn Mawr,381,229,218,209,Bone,254,236,219,Antique white
+6:50:20,Bryn Mawr,393,177,171,172,Light gray (69%),248,236,224,Linen
+6:50:30,Bryn Mawr,404,214,206,199,Pastel gray,254,242,225,Old lace
+6:50:40,Bryn Mawr,415,203,192,191,Pale silver,254,242,225,Old lace
+6:50:50,Bryn Mawr,415,216,206,202,Gray (82%),250,236,221,Antique white
+6:51:00,Bryn Mawr,421,193,186,188,Silver,253,239,222,Antique white
+6:51:10,Bryn Mawr,421,198,191,186,Pale silver,254,242,222,Cornsilk
+6:51:20,Bryn Mawr,456,182,176,177,Light gray (69%),251,238,219,Antique white
+6:51:30,Bryn Mawr,466,201,192,182,Pale silver,252,238,220,Antique white
+6:51:40,Bryn Mawr,470,204,191,184,Pale silver,254,238,219,Papaya whip (Beige)
+6:51:50,Bryn Mawr,486,201,194,188,Pale silver,254,240,219,Papaya whip (Beige)
+6:52:00,Bryn Mawr,488,203,196,190,Pale silver,254,243,221,Cornsilk
+6:52:10,Bryn Mawr,502,191,188,187,Silver,253,239,223,Linen
+6:52:20,Bryn Mawr,503,200,192,188,Pale silver,252,236,215,Antique white
+6:52:30,Bryn Mawr,525,205,195,192,Pale silver,252,236,217,Antique white
+6:52:40,Bryn Mawr,526,178,172,171,Light gray (69%),252,238,220,Antique white
+6:52:50,Bryn Mawr,528,211,200,194,Pastel gray,254,241,219,Papaya whip (Beige)
+6:53:00,Bryn Mawr,533,165,161,168,Light gray,254,241,218,Papaya whip (Beige)
+6:53:10,Bryn Mawr,542,168,168,170,Light gray,254,247,227,Old lace
+6:53:20,Bryn Mawr,557,182,179,178,Light gray (69%),254,237,213,Papaya whip (Beige)
+6:53:30,Bryn Mawr,566,174,169,173,Light gray,252,236,219,Antique white
+6:53:40,Bryn Mawr,666,165,163,170,Light gray,253,236,215,Antique white
+6:53:50,Bryn Mawr,678,159,157,158,Gray (63%),248,233,215,Antique white
+6:54:00,Bryn Mawr,680,158,157,162,Gray (63%),248,234,216,Antique white
+6:54:10,Bryn Mawr,684,148,148,154,Gray (56%),248,233,217,Antique white
+6:54:20,Bryn Mawr,704,152,150,155,Gray (63%),247,234,217,Antique white
+6:54:30,Bryn Mawr,722,174,172,174,Light gray (69%),247,235,217,Antique white
+6:54:40,Bryn Mawr,813,182,177,180,Light gray (69%),246,231,213,Antique white
+6:54:50,Bryn Mawr,880,159,162,167,Gray (63%),247,235,217,Antique white
+6:45:00,Thorndale,392,175,167,150,Grayish,251,240,215,Papayawhip
+6:45:10,Thorndale,412,175,167,150,Grayish,251,240,215,Papayawhip
+6:45:20,Thorndale,485,175,167,150,Grayish,251,240,215,Papayawhip
+6:45:30,Thorndale,508,175,167,150,Grayish,251,240,215,Papayawhip
+6:45:40,Thorndale,509,175,167,150,Grayish,251,240,215,Papayawhip
+6:45:50,Thorndale,493,175,167,150,Grayish,251,240,215,Papayawhip
+6:46:00,Thorndale,531,186,177,160,Khaki,255,242,209,Papayawhip
+6:46:10,Thorndale,541,186,177,160,Khaki,255,242,209,Papayawhip
+6:46:20,Thorndale,565,186,177,160,Khaki,255,242,209,Papayawhip
+6:46:30,Thorndale,570,186,177,160,Khaki,255,242,209,Papayawhip
+6:46:40,Thorndale,571,186,177,160,Khaki,255,242,209,Papayawhip
+6:46:50,Thorndale,583,186,177,160,Khaki,255,242,209,Papayawhip
+6:47:00,Thorndale,439,175,167,151,Grayish,255,245,217,Cornsilk
+6:47:10,Thorndale,497,175,167,151,Grayish,255,245,217,Cornsilk
+6:47:20,Thorndale,614,175,167,151,Grayish,255,245,217,Cornsilk
+6:47:30,Thorndale,626,175,167,151,Grayish,255,245,217,Cornsilk
+6:47:40,Thorndale,636,175,167,151,Grayish,255,245,217,Cornsilk
+6:47:50,Thorndale,663,175,167,151,Grayish,255,245,217,Cornsilk
+6:48:00,Thorndale,674,176,170,160,Dark Gray,247,240,223,Beige
+6:48:10,Thorndale,684,176,170,160,Dark Gray,247,240,223,Beige
+6:48:20,Thorndale,660,176,170,160,Dark Gray,247,240,223,Beige
+6:48:30,Thorndale,751,176,170,160,Dark Gray,247,240,223,Beige
+6:48:40,Thorndale,759,176,170,160,Dark Gray,247,240,223,Beige
+6:48:50,Thorndale,770,176,170,160,Dark Gray,247,240,223,Beige
+6:49:00,Thorndale,786,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:49:10,Thorndale,799,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:49:20,Thorndale,808,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:49:30,Thorndale,799,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:49:40,Thorndale,824,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:49:50,Thorndale,837,173,171,159,Dark Gray,254,245,218,Cornsilk
+6:50:00,Thorndale,840,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:50:10,Thorndale,690,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:50:20,Thorndale,888,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:50:30,Thorndale,900,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:50:40,Thorndale,913,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:50:50,Thorndale,918,173,171,160,Dark Gray,254,245,218,Cornsilk
+6:51:00,Thorndale,928,175,172,164,Light Gray,241,237,255,Eggshell
+6:51:10,Thorndale,943,175,172,164,Light Gray,241,237,255,Eggshell
+6:51:20,Thorndale,851,175,172,164,Light Gray,241,237,255,Eggshell
+6:51:30,Thorndale,855,175,172,164,Light Gray,241,237,255,Eggshell
+6:51:40,Thorndale,886,175,172,164,Light Gray,241,237,255,Eggshell
+6:51:50,Thorndale,865,175,172,164,Light Gray,241,237,255,Eggshell
+6:52:00,Thorndale,896,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:52:10,Thorndale,906,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:52:20,Thorndale,919,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:52:30,Thorndale,937,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:52:40,Thorndale,935,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:52:50,Thorndale,956,171,169,163,Dark Gray,254,247,221,Cornsilk
+6:53:00,Thorndale,963,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:53:10,Thorndale,975,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:53:20,Thorndale,983,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:53:30,Thorndale,996,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:53:40,Thorndale,1004,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:53:50,Thorndale,1029,138,138,136,Taupe Gray,237,237,228,Isabelline
+6:54:00,Thorndale,1045,191,190,179,Gray (X11),231,234,233,Platinum
+6:54:10,Thorndale,1058,191,190,179,Gray (X11),231,234,233,Platinum
+6:54:20,Thorndale,1071,191,190,179,Gray (X11),231,234,233,Platinum
+6:54:30,Thorndale,1058,191,190,179,Gray (X11),231,234,233,Platinum
+6:54:40,Thorndale,1071,191,190,179,Gray (X11),231,234,233,Platinum
+6:54:50,Thorndale,1050,191,190,179,Gray (X11),231,234,233,Platinum
+6:55:00,Thorndale,198,156,158,157,Cool Gray,219,227,230,Platinum
+6:55:10,Thorndale,1118,156,158,157,Cool Gray,219,227,230,Platinum
+6:55:20,Thorndale,1136,156,158,157,Cool Gray,219,227,230,Platinum
+6:55:30,Thorndale,1141,156,158,157,Cool Gray,219,227,230,Platinum
+6:55:40,Thorndale,1157,156,158,157,Cool Gray,219,227,230,Platinum
+6:55:50,Thorndale,1167,156,158,157,Cool Gray,219,227,230,Platinum
+6:45:00,Berwyn,289,182,176,168,"DarkGray, Light gray (69%)",NA,NA,NA,NA
+6:45:10,Berwyn,301,222,218,210,Gainsboro Timberwolf (Beige),NA,NA,NA,NA
+6:45:20,Berwyn,328,205,203,198,LightGray Pastel Gray,NA,NA,NA,NA
+6:45:30,Berwyn,341,138,143,142,"Gray, Gray (56%)",230,221,200,NA
+6:45:40,Berwyn,342,181,179,174,"DarkGray, Light gray (69%)",NA,NA,NA,NA
+6:45:50,Berwyn,352,203,199,192,"Silver, Pale silver",232,224,199,NA
+6:46:00,Berwyn,359,119,124,120,"DarkGray, Light gray (69%)",NA,NA,NA,NA
+6:46:10,Berwyn,368,220,213,206,LightGray Timberwolf (Beige),230,222,198,NA
+6:46:20,Berwyn,378,146,143,151,LightSlateGray Gray(65%),NA,NA,NA,NA
+6:46:30,Berwyn,385,NA,NA,NA,NA,232,224,196,NA
+6:46:40,Berwyn,388,196,195,189,Silver,234,223,199,NA
+6:46:50,Berwyn,398,NA,NA,NA,NA,NA,NA,NA,NA
+6:47:00,Berwyn,407,NA,NA,NA,NA,232,223,198,NA
+6:47:10,Berwyn,413,190,190,183,Silver,235,224,198,NA
+6:47:20,Berwyn,422,NA,NA,NA,NA,NA,NA,NA,NA
+6:47:30,Berwyn,436,207,206,195,"Light Gray, Pastel Gray",234,223,199,NA
+6:47:40,Berwyn,443,NA,NA,NA,Silver,NA,NA,NA,NA
+6:47:50,Berwyn,464,148,151,145,NA,235,223,197,NA
+6:48:00,Berwyn,475,189,192,187,Silver,235,224,200,NA
+6:48:10,Berwyn,479,NA,NA,NA,NA,NA,NA,NA,NA
+6:48:20,Berwyn,491,215,212,206,LightGray Timberwolf (Beige),240,228,200,NA
+6:48:30,Berwyn,501,172,175,172,"DarkGray, Light gray (69%)",241,224,195,NA
+6:48:40,Berwyn,509,NA,NA,NA,NA,NA,NA,NA,NA
+6:49:50,Berwyn,505,196,193,188,"Silver, Pale silver",243,224,195,NA
+6:50:00,Berwyn,517,NA,NA,NA,NA,NA,NA,NA,NA
+6:50:20,Berwyn,533,NA,NA,NA,NA,242,225,198,NA
+6:50:30,Berwyn,540,173,175,169,DarkGray Light Gray,NA,NA,NA,NA
+6:50:40,Berwyn,552,NA,NA,NA,NA,240,223,197,NA
+6:50:50,Berwyn,560,190,187,181,Silver,NA,NA,NA,NA
+6:51:20,Berwyn,648,246,245,242,White Smoke,241,222,197,NA
+6:51:30,Berwyn,665,245,247,245,White Smoke,NA,NA,NA,NA
+6:51:40,Berwyn,688,NA,NA,NA,NA,244,223,193,NA
+6:51:50,Berwyn,693,NA,NA,NA,NA,255,255,255,NA
+6:52:00,Berwyn,709,254,254,253,NA,255,255,250,NA
+6:52:20,Berwyn,735,NA,NA,NA,NA,255,255,252,NA
+6:53:00,Berwyn,776,241,244,248,NA,NA,NA,NA,NA
+6:53:10,Berwyn,786,NA,NA,NA,NA,254,255,247,NA
+6:53:20,Berwyn,792,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:53:30,Berwyn,780,255,255,255,"White, Bright White",255,255,244,NA
+6:53:40,Berwyn,790,255,255,255,"White, Bright White",255,255,242,NA
+6:53:50,Berwyn,809,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:54:00,Berwyn,805,244,255,255,"White, Bright White",254,255,233,NA
+6:54:10,Berwyn,838,NA,NA,NA,NA,254,255,231,NA
+6:54:20,Berwyn,841,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:54:30,Berwyn,855,254,255,255,"White, Bright White",255,255,227,NA
+6:54:40,Berwyn,874,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:54:50,Berwyn,872,255,255,255,"White, Bright White",254,254,223,NA
+6:55:10,Berwyn,882,NA,NA,NA,NA,254,252,218,NA
+6:55:30,Berwyn,912,NA,NA,NA,NA,254,250,217,NA
+6:55:40,Berwyn,902,253,253,253,"White, Bright White",NA,NA,NA,NA
+6:55:50,Berwyn,918,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:56:00,Berwyn,943,NA,NA,NA,NA,254,249,218,NA
+6:56:10,Berwyn,951,NA,NA,NA,NA,254,248,213,NA
+6:56:20,Berwyn,930,255,255,255,"White, Bright White",NA,NA,NA,NA
+6:56:30,Berwyn,1005,NA,NA,NA,NA,254,242,212,NA
+6:56:40,Berwyn,1004,NA,NA,NA,NA,254,240,207,NA
+6:56:50,Berwyn,1016,255,255,255,"White, Bright White",254,240,212,NA
+6:57:00,Berwyn,1045,NA,NA,NA,NA,254,239,207,NA
+6:57:10,Berwyn,1060,244,249,249,NA,252,237,204,NA
+6:57:20,Berwyn,1094,247,247,247,NA,254,237,205,NA
+6:39:10,Argyle ,127,207,200,193,Bright Grayish Orange,175,162,144,Grayish
+6:39:30,Argyle ,131,207,200,193,Bright Grayish Orange,179,166,149,Bland
+6:39:40,Argyle ,144,209,203,195,Bright Grayish Orange,155,145,133,Warm Gray
+6:39:50,Argyle ,143,208,203,195,Bright Grayish Orange,175,161,144,Grayish
+6:41:00,Argyle ,173,207,203,196,Bright Grayish Orange,180,166,147,Bland
+6:41:10,Argyle ,177,208,204,197,Bright Grayish Orange,161,151,135,Grullo
+6:41:20,Argyle ,177,211,207,198,Bright Grayish Orange,185,170,151,Khaki
+6:41:30,Argyle ,184,211,207,200,Bright Grayish Orange,171,161,149,Grayish
+6:41:40,Argyle ,193,211,207,201,Bright Grayish Orange,165,155,142,Grullo
+6:41:50,Argyle ,198,213,209,202,Bright Grayish Orange,170,158,144,Cement
+6:42:00,Argyle ,204,214,210,203,Bright Grayish Orange,157,145,132,Warm Gray
+6:42:10,Argyle ,210,213,209,203,Bright Grayish Orange,161,153,141,Grullo
+6:42:20,Argyle ,215,215,212,206,Bright Grayish Orange,169,160,148,Grayish
+6:42:30,Argyle ,221,214,212,206,Bright Grayish Orange,175,162,146,Grayish
+6:42:40,Argyle ,226,214,212,207,Bright Grayish Orange,162,153,142,Grullo
+6:43:00,Argyle ,238,215,213,208,Bright Grayish Orange,151,143,135,Warm Gray
+6:43:20,Argyle ,243,214,212,209,Bright Grayish Orange,135,122,125,Rocket Metallic
+6:44:20,Argyle ,278,215,214,210,Bright Grayish Yellow,127,122,125,Medium Gray
+6:45:00,Argyle ,307,216,215,211,Bright Grayish Yellow,168,159,146,Cement
+6:45:20,Argyle ,320,220,216,211,Bright Grayish Orange,162,154,143,Grullo
+6:45:30,Argyle ,327,220,215,211,Bright Grayish Orange,168,161,149,Grayish
+6:45:40,Argyle ,326,222,216,212,Bright Grayish Orange,149,144,137,Apple Contacts Face Gray
+6:45:50,Argyle ,343,221,217,212,Bright Grayish Orange,167,157,145,Cement
+6:46:00,Argyle ,348,222,218,213,Very Bright Grayish Orange,153,146,138,Gray 
+6:46:10,Argyle ,356,222,218,215,Very Bright Grayish Orange,150,146,137,Gray
+6:46:20,Argyle ,364,222,218,215,Very Bright Grayish Orange,164,157,147,Cement
+6:46:30,Argyle ,367,223,219,216,Very Bright Grayish Orange,117,129,133,Steel Gray
+6:46:40,Argyle ,379,224,220,217,Very Bright Grayish Orange,116,124,130,Aurometalsaurus
+6:46:50,Argyle ,386,222,219,217,Very Bright Grayish Orange,113,121,127,Aurometalsaurus
+6:47:00,Argyle ,399,223,220,218,Very Bright Grayish Orange,120,121,126,Medium Gray
+6:47:10,Argyle ,406,224,221,218,Very Bright Grayish Orange,159,156,150,Cement
+6:47:20,Argyle ,416,224,222,219,Very Bright Grayish Orange,158,149,144,Gray
+6:47:40,Argyle ,425,224,222,219,Very Bright Grayish Orange,158,154,147,Cement
+6:47:50,Argyle ,431,224,222,220,Very Bright Grayish Orange,127,120,127,Gray
+6:48:10,Argyle ,438,224,222,220,Very Bright Grayish Orange,151,122,127,Bazaar
+6:48:20,Argyle ,446,224,222,220,Very Bright Grayish Orange,155,153,148,Gray
+6:48:30,Argyle ,458,224,222,221,Bright Gray,149,148,143,Gray
+6:48:40,Argyle ,465,224,222,221,Bright Gray,218,130,132,New York Pink
+6:48:50,Argyle ,476,224,222,221,Bright Gray,145,125,133,Rocket Metallic
+6:49:00,Argyle ,486,225,223,222,Bright Gray,126,129,139,Gray 
+6:49:10,Argyle ,488,225,223,222,Bright Gray,113,121,130,Battleship Gray
+6:49:20,Argyle ,497,225,223,222,Bright Gray,109,117,126,Battleship Gray
+6:49:30,Argyle ,503,225,223,223,Bright Gray,117,131,140,Steel Gray
+6:49:40,Argyle ,510,226,224,223,Bright Gray,148,145,140,Apple Contacts Face Gray
+6:49:50,Argyle ,520,226,224,223,Bright Gray,119,131,140,Steel Gray
+6:50:00,Argyle ,534,227,225,224,Bright Gray,111,117,124,Sonic Silver
+6:50:10,Argyle ,543,226,224,224,Bright Gray,154,153,150,Gray
+6:50:20,Argyle ,552,228,225,225,Very Bright Grayish Red,149,144,142,Apple Contacts Face Gray
+6:50:40,Argyle ,561,229,226,226,Very Bright Grayish Red,156,150,146,Gray
+6:51:10,Argyle ,604,228,225,225,Very Bright Grayish Red,115,129,139,Steel Gray
+6:51:20,Argyle ,614,228,225,225,Very Bright Grayish Red,154,146,143,Gray
+6:51:30,Argyle ,617,229,226,226,Very Bright Grayish Red,140,134,131,Gray
+6:51:40,Argyle ,628,230,227,227,Very Bright Grayish Red,119,126,135,Steel Gray
+6:51:50,Argyle ,631,230,227,227,Very Bright Grayish Red,139,136,132,Grey
+6:52:00,Argyle ,643,231,227,227,Very Bright Grayish Red,248,208,181,Apricot
+6:52:10,Argyle ,649,232,228,228,Very Bright Grayish Red,122,137,152,Lightslategrey
+6:52:20,Argyle ,664,231,228,228,Very Bright Grayish Red,236,235,223,Eggshell
+6:52:30,Argyle ,668,231,228,229,Very Bright Grayish Red,106,118,131,Battleship Grey
+6:52:50,Argyle ,680,231,228,228,Very Bright Grayish Red,229,218,207,Bone
+6:53:00,Argyle ,687,233,229,229,Very Bright Grayish Red,200,166,157,Pinkish Grey
+6:53:20,Argyle ,724,235,230,230,Very Bright Grayish Red,104,114,123,Sonic Silver
