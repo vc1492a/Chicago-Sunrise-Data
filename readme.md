@@ -4,7 +4,7 @@ This dataset contains colors and brightness levels recorded during a sunrise in 
 
 
 ### Locations
-There are five locations in the dataset, each a spot due east of a particular red line stop. The locations are labelled according to the red line stop that is west of where the data was recorded. 
+There are five locations in the dataset, each a spot due east of a particular red line stop. The locations are labelled according to the red line stop that is west of where the data was recorded. The sun rose at 6:50am during the data collection period.
 
 ### More Information
 You will see some variation in the data from location to location due to the manner in which the data was recorded. Some sections have missing data, and others have repeated values. 
